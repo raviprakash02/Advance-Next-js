@@ -1,0 +1,27 @@
+.login-menu li a {
+  text-decoration: none;
+}
+
+.login-menu h4 {
+  margin: 0;
+}
+.heading {
+  color: red;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.navbar-login {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.navbar-login li {
+  list-style: none;
+  margin-bottom: 10px;
+  margin-left: 25px;
+}
+.navbar-login li a {
+  text-decoration: none;
+}
