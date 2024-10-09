@@ -26,6 +26,9 @@ export default function Home() {
           <button onClick={() => navigate("/about")}>About</button>
         </li>
       </ul>
+      <br />
+      <br />
+      <button onClick={() => navigate("/productlist")}>productlist </button>
     </main>
   );
 }
