@@ -28,7 +28,19 @@ export default function Home() {
       </ul>
       <br />
       <br />
-      <button onClick={() => navigate("/productlist")}>productlist </button>
+      <button onClick={() => navigate("/productlist")}>
+        productlist [API]
+      </button>
+      <br />
+      <br />
+      <button onClick={() => navigate("/productlist2")}>
+        productlist [API]
+      </button>
+      <br />
+      <br />
+      <br />
+      <br />
+      <button onClick={() => navigate("/Userlocation")}>Location</button>
     </main>
   );
 }
